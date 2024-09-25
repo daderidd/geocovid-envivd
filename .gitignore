@@ -1,0 +1,15 @@
+#Untrack folders
+
+processed_data/
+data/
+figures/
+results/
+#Untrack files
+*.DS_Store
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+.Rproj.user
+.Rhistory
+.Rproj
+*.pyc

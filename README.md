@@ -10,7 +10,6 @@ https://code.earthengine.google.com/6f43c3390c4155ca0c8ff01f848b5f46
 ## Directory structure
 
 - `src/` : This folder contains the scripts to perform all analyses and generate figures
-- `data/` : This folder contains all geographic and demographic data used in the analyses
 
 
 ## Environment

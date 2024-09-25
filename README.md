@@ -14,6 +14,9 @@ https://code.earthengine.google.com/6f43c3390c4155ca0c8ff01f848b5f46
 
 ## Environment
 
+- `environment.yml`
+- `requirements.txt`
+
 ## License
 
 
